@@ -4,12 +4,12 @@ aioitertools
 aiosignal
 alabaster
 altair
-anaconda-anon-usage
-anaconda-catalogs
-anaconda-client
-anaconda-cloud-auth
-anaconda-navigator
-anaconda-project
+# anaconda-anon-usage
+# anaconda-catalogs
+# anaconda-client
+# anaconda-cloud-auth
+# anaconda-navigator
+# anaconda-project
 anyio
 appdirs==1.4.4
 archspec
@@ -50,17 +50,17 @@ clyent==1.2.2
 colorama
 colorcet
 comm
-conda
-conda-build
-conda-content-trust
-conda-libmamba-solver
-conda-pack
-conda-package-handling
-conda-repo-cli==1.0.75
-conda-token
-conda-verify==3.4.2
-conda_index
-conda_package_streaming
+# conda
+# conda-build
+# conda-content-trust
+# conda-libmamba-solver
+# conda-pack
+# conda-package-handling
+# conda-repo-cli==1.0.75
+# conda-token
+# conda-verify==3.4.2
+# conda_index
+# conda_package_streaming
 constantly
 contourpy
 cookiecutter
@@ -151,7 +151,7 @@ lazy-object-proxy
 lazy_loader
 lckr_jupyterlab_variableinspector
 libarchive-c
-libmambapy
+# libmambapy
 linkify-it-py
 llvmlite
 lmdb
@@ -170,7 +170,7 @@ menuinst
 mistune
 mkl-fft
 mkl-random
-mkl-service==2.4.0
+# mkl-service==2.4.0
 more-itertools
 mpmath
 msgpack
@@ -179,7 +179,7 @@ multipledispatch
 munkres==1.1.4
 mypy
 mypy-extensions
-navigator-updater
+# navigator-updater
 nbclient
 nbconvert
 nbformat
@@ -293,7 +293,7 @@ rich
 rope
 rpds-py
 Rtree
-ruamel-yaml-conda
+# ruamel-yaml-conda
 ruamel.yaml
 s3fs
 safetensors==0.4.3
