@@ -1,2 +1,7 @@
-
+1.自身のsshサーバに接続してターミナルに「git clone -b master git@github.com:ao-vix/reseach.git」と入力する
+2. Studio Codeを開き，自身のsshサーバに接続する
+3.Visual Studio Code上でターミナルを開いてターミナル上に「cd reseach」と入力する
+4.ターミナル上に続けて「streamlit run main.py」と入力する
+5.画面右下のopen in Browserを押す．または，chromeブラウザの検索欄にhttp://localhost:8502 と入力する
+6.バーチャルファミリーの画面が開く
 
